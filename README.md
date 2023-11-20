@@ -1,4 +1,5 @@
 Proje - Patika Klonu
+
 Bir eğitim paneli projesi yapıldı içeriği;
 
 Eğitmen Paneli
